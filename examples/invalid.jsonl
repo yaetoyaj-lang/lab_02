@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-13T12:00:00Z","level":"INFO","source":"app","message":"Корректное событие"}
+{"timestamp":"2026-10-13T12:00:01","level":"ERROR","source":"app","message":"Нет часового пояса"}
+{broken json}
+{"timestamp":"2026-10-13T12:00:03Z","level":"CRITICAL","source":"база","message":"Ещё одно корректное событие"}

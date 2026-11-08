@@ -1,0 +1,11 @@
+timestamp,level,source,message
+2026-10-13T12:00:00Z,DEBUG,auth.service,Starting authentication request.
+2026-10-13T12:00:01Z,INFO,auth.service,User authentication completed successfully.
+2026-10-13T12:00:02Z,WARNING,cache.worker,Cache response time exceeded the expected threshold.
+2026-10-13T12:00:03Z,ERROR,database.client,Database query failed due to a connection timeout.
+2026-10-13T12:00:04Z,CRITICAL,system.monitor,Service is unavailable after repeated health-check failures.
+2026-10-13T12:00:05Z,INFO,file.reader,Log file was read successfully.
+2026-10-13T12:00:06Z,DEBUG,parser,Parsed 128 log records.
+2026-10-13T12:00:07Z,WARNING,disk.monitor,Available disk space is below 15 percent.
+2026-10-13T12:00:08Z,ERROR,api.gateway,Upstream service returned HTTP 502.
+2026-10-13T12:00:09Z,INFO,scheduler,Scheduled cleanup task completed.

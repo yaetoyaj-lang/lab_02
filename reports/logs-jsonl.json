@@ -1,0 +1,41 @@
+{
+  "total_events": 10,
+  "by_level": {
+    "DEBUG": 2,
+    "INFO": 3,
+    "WARNING": 2,
+    "ERROR": 2,
+    "CRITICAL": 1
+  },
+  "by_source": {
+    "api.gateway": 1,
+    "auth.service": 2,
+    "cache.worker": 1,
+    "database.client": 1,
+    "disk.monitor": 1,
+    "file.reader": 1,
+    "parser": 1,
+    "scheduler": 1,
+    "system.monitor": 1
+  },
+  "top_error_sources": [
+    {
+      "source": "system.monitor",
+      "level": "CRITICAL",
+      "count": 1
+    },
+    {
+      "source": "api.gateway",
+      "level": "ERROR",
+      "count": 1
+    },
+    {
+      "source": "database.client",
+      "level": "ERROR",
+      "count": 1
+    }
+  ],
+  "first_timestamp": "2026-10-13T12:00:00Z",
+  "last_timestamp": "2026-10-13T12:00:09Z",
+  "skipped_lines": 0
+}

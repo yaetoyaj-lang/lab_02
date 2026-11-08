@@ -1,0 +1,10 @@
+{"timestamp": "2026-10-13T12:00:00Z", "level": "DEBUG", "source": "auth.service", "message": "Starting authentication request."}
+{"timestamp": "2026-10-13T12:00:01Z", "level": "INFO", "source": "auth.service", "message": "User authentication completed successfully."}
+{"timestamp": "2026-10-13T12:00:02Z", "level": "WARNING", "source": "cache.worker", "message": "Cache response time exceeded the expected threshold."}
+{"timestamp": "2026-10-13T12:00:03Z", "level": "ERROR", "source": "database.client", "message": "Database query failed due to a connection timeout."}
+{"timestamp": "2026-10-13T12:00:04Z", "level": "CRITICAL", "source": "system.monitor", "message": "Service is unavailable after repeated health-check failures."}
+{"timestamp": "2026-10-13T12:00:05Z", "level": "INFO", "source": "file.reader", "message": "Log file was read successfully."}
+{"timestamp": "2026-10-13T12:00:06Z", "level": "DEBUG", "source": "parser", "message": "Parsed 128 log records."}
+{"timestamp": "2026-10-13T12:00:07Z", "level": "WARNING", "source": "disk.monitor", "message": "Available disk space is below 15 percent."}
+{"timestamp": "2026-10-13T12:00:08Z", "level": "ERROR", "source": "api.gateway", "message": "Upstream service returned HTTP 502."}
+{"timestamp": "2026-10-13T12:00:09Z", "level": "INFO", "source": "scheduler", "message": "Scheduled cleanup task completed."}
